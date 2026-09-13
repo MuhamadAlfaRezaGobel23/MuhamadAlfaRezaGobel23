@@ -1,20 +1,20 @@
-# 👋 Halo, Saya Muhamad Alfa Reza Gobel
+# 👋 Hello, I'm Muhamad Alfa Reza Gobel
 
-🎓 **Mahasiswa S1 Sains Data – Universitas Negeri Surabaya (UNESA)**
+🎓 **Data Science Undergraduate Student – Universitas Negeri Surabaya (UNESA)**
 📍 Surabaya, Indonesia
-📊 Interested in **Data Science, Data Analyst, Machine Learning & AI**
+📊 Interested in **Data Science, Data Analytics, Machine Learning & AI**
 
-Selamat datang di repository **Portfolio Semester 7** saya! 🚀
+Welcome to my **Semester 7 Portfolio**! 🚀
 
-Repository ini berisi kumpulan proyek, pengalaman magang, dan kegiatan yang saya kerjakan selama menempuh pendidikan S1 Sains Data di Universitas Negeri Surabaya.
+This repository contains a collection of projects, internship experiences, and activities I have completed throughout my studies as a Data Science undergraduate student at Universitas Negeri Surabaya.
 
-Portfolio ini menjadi dokumentasi perjalanan saya dalam mempelajari bagaimana data dapat digunakan untuk **menganalisis masalah, menemukan pola, membangun model, dan menghasilkan solusi berbasis data.** 📈
+This portfolio documents my journey in learning how data can be used to **analyze problems, discover patterns, build models, and develop data-driven solutions.** 📈
 
 ---
 
 ## 🧑‍💻 About Me
 
-Saya merupakan mahasiswa Sains Data yang memiliki ketertarikan pada bidang:
+I am a Data Science undergraduate student with an interest in:
 
 * 📊 Data Analysis
 * 🤖 Machine Learning
@@ -23,19 +23,19 @@ Saya merupakan mahasiswa Sains Data yang memiliki ketertarikan pada bidang:
 * 📈 Data Visualization
 * 💻 Python & SQL
 
-Saya juga memiliki pengalaman mengerjakan berbagai proyek akademik dan proyek berbasis tim, mulai dari **data mining, text processing, computer vision, database, data warehouse, hingga artificial intelligence.**
+I have experience working on various academic and team-based projects, covering areas such as **data mining, text processing, computer vision, databases, data warehouses, and artificial intelligence.**
 
 ---
 
 # 📚 Academic Projects
 
-Berikut beberapa proyek yang telah saya kerjakan selama perkuliahan:
+Here are some of the projects I have worked on throughout my studies:
 
-### 🌦️ 1. Klasifikasi Cuaca Kota Denpasar
+### 🌦️ 1. Denpasar Weather Classification
 
-**Perbandingan Klasifikasi Cuaca Kota Denpasar dengan Regresi Logistik Multinomial dan Analisis Diskriminan**
+**Comparison of Denpasar Weather Classification Using Multinomial Logistic Regression and Discriminant Analysis**
 
-Membandingkan metode **Multinomial Logistic Regression (MLR)** dan **Linear Discriminant Analysis (LDA)** untuk mengklasifikasikan kondisi cuaca menjadi Clear, Clouds, Rain, dan Thunderstorm.
+Compared **Multinomial Logistic Regression (MLR)** and **Linear Discriminant Analysis (LDA)** to classify weather conditions into four categories: Clear, Clouds, Rain, and Thunderstorm.
 
 🛠️ **Tools:** RStudio, Python
 🤝 **Team Project**
@@ -44,9 +44,9 @@ Membandingkan metode **Multinomial Logistic Regression (MLR)** dan **Linear Disc
 
 ### 🌬️ 2. NafasKu
 
-**Aplikasi Cerdas untuk Pemantauan Kualitas Udara & Prediksi Serangan Asma Berbasis Artificial Intelligence**
+**Smart Application for Air Quality Monitoring & Asthma Attack Prediction Using Artificial Intelligence**
 
-Konsep aplikasi berbasis AI yang dirancang untuk membantu pengguna memantau kualitas udara dan memberikan prediksi potensi risiko serangan asma.
+A conceptual AI-based application designed to help users monitor air quality and predict potential asthma attack risks.
 
 🛠️ **Tools:** Figma, Canva, Google Forms
 🤝 **Team Project**
@@ -55,11 +55,11 @@ Konsep aplikasi berbasis AI yang dirancang untuk membantu pengguna memantau kual
 
 ---
 
-### 🌫️ 3. Forecasting Kualitas Udara Jakarta
+### 🌫️ 3. Jakarta Air Quality Forecasting
 
-**Forecasting Kualitas Udara untuk Prediksi Indeks Standar Pencemar Udara (ISPU) di Kota Jakarta**
+**Air Quality Forecasting for Predicting the Air Pollution Standard Index (ISPU) in Jakarta**
 
-Proyek Data Mining untuk melakukan forecasting nilai ISPU berdasarkan data historis kualitas udara.
+A Data Mining project focused on forecasting ISPU values using historical air quality data.
 
 🛠️ **Tools:** Python, Canva
 🤝 **Team Project**
@@ -70,9 +70,9 @@ Proyek Data Mining untuk melakukan forecasting nilai ISPU berdasarkan data histo
 
 ### 🏥 4. PrediStrok
 
-**Klasifikasi Risiko Serangan Stroke Menggunakan Multi Layer Perceptron (MLP)**
+**Stroke Risk Classification Using Multi-Layer Perceptron (MLP)**
 
-Membangun model klasifikasi untuk membantu mengidentifikasi risiko stroke berdasarkan beberapa atribut kesehatan menggunakan algoritma **Multilayer Perceptron**.
+Developed a classification model to help identify stroke risk based on several health-related attributes using a **Multilayer Perceptron (MLP)** algorithm.
 
 🛠️ **Tools:** Python, Streamlit
 🤝 **Team Project**
@@ -81,11 +81,11 @@ Membangun model klasifikasi untuk membantu mengidentifikasi risiko stroke berdas
 
 ---
 
-### 📝 5. Sistem Rekomendasi Restoran
+### 📝 5. Restaurant Recommendation System
 
-**Sistem Rekomendasi Restoran Berdasarkan Analisis Ulasan dan Rating Menggunakan Clustering**
+**Restaurant Recommendation System Based on Review and Rating Analysis Using Clustering**
 
-Mengembangkan sistem rekomendasi restoran dengan memanfaatkan data ulasan dan rating untuk membantu pengguna menemukan restoran yang sesuai.
+Developed a restaurant recommendation system by utilizing customer reviews and ratings to help users find restaurants that match their preferences.
 
 🛠️ **Tools:** Python
 🤝 **Team Project**
@@ -96,9 +96,9 @@ Mengembangkan sistem rekomendasi restoran dengan memanfaatkan data ulasan dan ra
 
 ### 🥛 6. DairyMoo
 
-**Optimasi Restocking Produk Susu Menggunakan Dynamic Programming**
+**Milk Product Restocking Optimization Using Dynamic Programming**
 
-Sistem untuk membantu menentukan keputusan restocking berdasarkan pola penjualan dan permintaan dengan membandingkan **Dynamic Programming Top-Down, Bottom-Up, dan Greedy Algorithm.**
+A system designed to support restocking decisions based on sales and demand patterns by comparing **Top-Down Dynamic Programming, Bottom-Up Dynamic Programming, and Greedy Algorithm.**
 
 🛠️ **Tools:** Python
 🤝 **Team Project**
@@ -107,11 +107,11 @@ Sistem untuk membantu menentukan keputusan restocking berdasarkan pola penjualan
 
 ---
 
-### 🗄️ 7. Data Warehouse COVID-19
+### 🗄️ 7. COVID-19 Data Warehouse
 
-**Penerapan Data Warehouse dalam Analisis Kasus dan Kematian COVID-19 di Amerika Serikat**
+**Data Warehouse Implementation for COVID-19 Cases and Death Analysis in the United States**
 
-Merancang data warehouse untuk mengintegrasikan data COVID-19 secara terstruktur sehingga dapat digunakan untuk analisis dan pelaporan.
+Designed a data warehouse to integrate COVID-19 data in a structured manner to support data analysis and reporting.
 
 🛠️ **Tools:** Python
 🤝 **Team Project**
@@ -122,9 +122,9 @@ Merancang data warehouse untuk mengintegrasikan data COVID-19 secara terstruktur
 
 ### ✍️ 8. Signature Verification
 
-**Sistem Verifikasi Tanda Tangan Menggunakan Artificial Neural Network**
+**Signature Verification System Using Artificial Neural Network**
 
-Mengembangkan sistem verifikasi tanda tangan menggunakan teknik **Digital Image Processing** dan **Artificial Neural Network (ANN)** untuk membedakan tanda tangan asli dan palsu.
+Developed a signature verification system using **Digital Image Processing** techniques and **Artificial Neural Network (ANN)** to distinguish between genuine and forged signatures.
 
 🛠️ **Tools:** Python, Canva
 🤝 **Team Project**
@@ -135,9 +135,9 @@ Mengembangkan sistem verifikasi tanda tangan menggunakan teknik **Digital Image 
 
 ### 🚑 9. SirenSignal
 
-**Analisis Suara Sirene Ambulans Menggunakan MFCC dan KNN**
+**Ambulance Siren Analysis Using MFCC and KNN**
 
-Menggunakan **Mel-Frequency Cepstral Coefficients (MFCC)** untuk ekstraksi fitur suara dan **K-Nearest Neighbor (KNN)** untuk klasifikasi.
+Applied **Mel-Frequency Cepstral Coefficients (MFCC)** for audio feature extraction and **K-Nearest Neighbor (KNN)** for classification.
 
 🛠️ **Tools:** Python
 🤝 **Team Project**
@@ -148,9 +148,9 @@ Menggunakan **Mel-Frequency Cepstral Coefficients (MFCC)** untuk ekstraksi fitur
 
 ### 📚 10. E-Book Database System
 
-**Sistem Basis Data untuk Pembelian dan Berlangganan E-Book**
+**Database System for E-Book Purchasing and Subscription**
 
-Merancang sistem basis data untuk mengelola pengguna, katalog e-book, kategori, transaksi pembelian, dan paket berlangganan.
+Designed a database system to manage users, e-book catalogs, categories, purchase transactions, and subscription packages.
 
 🛠️ **Tools:** SQL, Figma, Power Designer
 🤝 **Team Project**
@@ -161,9 +161,9 @@ Merancang sistem basis data untuk mengelola pengguna, katalog e-book, kategori, 
 
 ### 🤖 11. Sicepet
 
-**Optimasi Jalur Pengantaran Paket Menggunakan Uniform Cost Search**
+**Package Delivery Route Optimization Using Uniform Cost Search**
 
-Menerapkan algoritma **Uniform Cost Search (UCS)** untuk mencari jalur pengantaran yang optimal berdasarkan biaya perjalanan seperti jarak dan kondisi jalan.
+Applied the **Uniform Cost Search (UCS)** algorithm to find optimal delivery routes based on travel costs such as distance and road conditions.
 
 🛠️ **Tools:** Python, Canva
 🤝 **Team Project**
@@ -174,9 +174,9 @@ Menerapkan algoritma **Uniform Cost Search (UCS)** untuk mencari jalur pengantar
 
 ### 👟 12. Atlas Shoes Care
 
-**Sistem Layanan Cuci Sepatu Berbasis Queue dan Count Sort**
+**Shoe Cleaning Service System Using Queue and Count Sort**
 
-Mengembangkan sistem layanan cuci sepatu dengan menerapkan **Queue** untuk pengelolaan antrean dan **Count Sort** untuk pengurutan pesanan.
+Developed a shoe cleaning service system using **Queue** for order management and **Count Sort** for sorting customer orders.
 
 🛠️ **Tools:** Python, Canva
 🤝 **Team Project**
@@ -187,9 +187,9 @@ Mengembangkan sistem layanan cuci sepatu dengan menerapkan **Queue** untuk penge
 
 ### 🦠 13. COVID-19 Dashboard
 
-**COVID-19 Visualisasi untuk Literasi Digital**
+**COVID-19 Visualization for Digital Literacy**
 
-Membangun dashboard interaktif untuk menampilkan jumlah kasus, tingkat kesembuhan, tingkat kematian, serta tren perkembangan COVID-19.
+Built an interactive dashboard to display the number of cases, recovery rate, mortality rate, and COVID-19 trends.
 
 🛠️ **Tools:** Looker Studio, Python
 🤝 **Team Project**
@@ -200,29 +200,29 @@ Membangun dashboard interaktif untuk menampilkan jumlah kasus, tingkat kesembuha
 
 # 💼 Internship & Independent Study
 
-Selain proyek akademik, saya juga mendapatkan pengalaman melalui beberapa program magang dan independent study.
+In addition to academic projects, I have gained practical experience through several internship and independent study programs.
 
-## 🏢 SEAL × Dinas Komunikasi & Informatika Jawa Timur
+## 🏢 SEAL × East Java Communication and Informatics Agency
 
 **Data Scientist → Machine Learning Engineer**
 📅 August 2025 – December 2025
 📍 Surabaya, Indonesia
 
-Berperan dalam pengolahan dan pengembangan solusi berbasis data untuk mendukung kebutuhan data di **Dinas Komunikasi dan Informatika Provinsi Jawa Timur**.
+Worked on data processing and data-driven solutions to support the needs of the **East Java Provincial Communication and Informatics Agency (Diskominfo Jawa Timur)**.
 
 ### 🔧 What I Worked On
 
-* 🕷️ Melakukan **web scraping** data BPS dari sumber resmi.
-* 🔄 Mengembangkan otomatisasi **ETL menggunakan Apache Airflow**.
-* 📊 Menyiapkan dan memvalidasi data untuk kebutuhan **dashboard Metabase**.
-* 🧹 Melakukan **data cleansing** untuk mendeteksi dan menangani inkonsistensi data.
-* 🤖 Mengimplementasikan model **Machine Learning** untuk mendukung proses cleansing.
-* 🔍 Melakukan **Exploratory Data Analysis (EDA)** untuk memahami pola dan anomali data.
-* 🤝 Berkolaborasi dengan tim Data Scientist dan Data Analyst.
+* 🕷️ Performed **web scraping** to collect BPS data from official sources.
+* 🔄 Developed an automated **ETL pipeline using Apache Airflow**.
+* 📊 Prepared and validated data for **Metabase dashboards**.
+* 🧹 Performed **data cleansing** to identify and handle data inconsistencies.
+* 🤖 Implemented **Machine Learning** models to support the data cleansing process.
+* 🔍 Conducted **Exploratory Data Analysis (EDA)** to identify patterns and data anomalies.
+* 🤝 Collaborated with Data Scientists and Data Analysts.
 
 ### 📌 Project
 
-**Otomatisasi Pipeline ETL Data BPS Berbasis Airflow dengan Validasi Dashboard Analitik dan Cleansing Berbasis Machine Learning**
+**Automated BPS Data ETL Pipeline Using Airflow with Analytical Dashboard Validation and Machine Learning-Based Data Cleansing**
 
 ---
 
@@ -231,16 +231,16 @@ Berperan dalam pengolahan dan pengembangan solusi berbasis data untuk mendukung 
 **Data Science Learning Path**
 📅 February 2026 – July 2026
 
-Program pembelajaran yang berfokus pada pengembangan kemampuan **Data Science** melalui pembelajaran mandiri, mentoring, dan proyek.
+A learning program focused on developing **Data Science** skills through structured courses, hands-on assignments, mentoring, and a capstone project.
 
 ### 📚 Activities
 
-* 📊 Mempelajari konsep **Data Analysis dan Machine Learning**.
-* 💻 Mengerjakan berbagai latihan dan proyek Data Science.
-* 🧑‍🏫 Mengikuti Instructor-Led Training.
-* 🗣️ Mengembangkan kemampuan soft skills dan English.
-* 🤝 Berkolaborasi dalam pengembangan **Capstone Project**.
-* 👨‍🏫 Mengikuti mentoring dan konsultasi secara berkala.
+* 📊 Completed Data Science courses covering **data analysis, data preprocessing, and machine learning**.
+* 🧑‍🏫 Participated in **16 Instructor-Led Training (ILT)** sessions, consisting of **7 Hard Skills, 7 Soft Skills, and 2 English sessions**.
+* 🤖 Developed **EcoSort AI**, a waste image classification project using **1,000+ image data** as part of the Capstone Project.
+* 🧠 Applied machine learning techniques including **image preprocessing, model training, evaluation, and classification**.
+* 👨‍🏫 Received weekly mentoring and consultation throughout the program.
+* 🤝 Strengthened skills in **data analysis, machine learning, problem-solving, teamwork, communication, and professional development**.
 
 **Learning Path:** Data Science
 **Program:** Coding Camp 2026 Powered by DBS Foundation – Dicoding
@@ -253,21 +253,21 @@ Program pembelajaran yang berfokus pada pengembangan kemampuan **Data Science** 
 📅 February 2026 – July 2026
 📍 Sidoarjo, Indonesia
 
-Berperan dalam kegiatan pengolahan data serta mendukung pelaksanaan program webinar dan administrasi organisasi.
+Contributed to data processing activities while supporting webinar programs and organizational administration.
 
 ### 🔧 What I Worked On
 
-* 🧹 Membersihkan dan memproses **100,000+ data respons survei**.
-* 🐍 Mengembangkan program berbasis **Python** untuk mengotomatisasi proses cleaning data kuesioner online.
-* 🎤 Berkontribusi dalam pelaksanaan **6 webinar**.
-* 📜 Memproses dan mengelola **1,000+ sertifikat peserta**.
-* 🤝 Berkolaborasi dalam pengelolaan data dan kegiatan program.
+* 🧹 Cleaned and processed **100,000+ survey responses**.
+* 🐍 Developed a **Python-based automation program** for online questionnaire data cleaning.
+* 🎤 Contributed to the organization and execution of **6 webinars**.
+* 📜 Processed and managed **1,000+ participant certificates**.
+* 🤝 Collaborated on data management and program activities.
 
 ### 💡 Personal Project
 
 **Python-based Online Questionnaire Cleaning Automation**
 
-Program sederhana yang dikembangkan untuk membantu mengurangi proses cleaning data survei secara manual dan membuat proses pengolahan data menjadi lebih efisien.
+Developed a Python program to reduce manual work in cleaning online survey data and improve the efficiency of the data processing workflow.
 
 ---
 
@@ -315,25 +315,25 @@ Program sederhana yang dikembangkan untuk membantu mengurangi proses cleaning da
 * 🥇 **1st Place – DIMAS-TI AMLI 2024**
 * 🎓 **Distinction Graduate – Coding Camp 2026**
 * ☁️ **AWS Cloud Essentials Badge**
-* 📜 **TEP Bahasa Inggris UNESA – Score 430**
-* 🤖 Active in **Rengganis Robotic Club UNESA**
+* 📜 **TEP English Proficiency Test (UNESA) – Score 430**
+* 🤖 Active Member of **Rengganis Robotic Club UNESA**
 * 🎤 Presenter – **SENADA 2025**
 
 ---
 
 # 🎯 Career Interests
 
-Saat ini saya tertarik untuk mengembangkan karier di bidang:
+I am currently interested in building a career in:
 
 **Data Analyst → Data Scientist → Machine Learning / AI Engineer**
 
-Saya ingin terus mengembangkan kemampuan teknis sekaligus mendapatkan pengalaman dalam mengerjakan permasalahan nyata menggunakan data.
+I aim to continuously develop my technical skills while gaining practical experience in solving real-world problems using data.
 
 ---
 
 # 📫 Let's Connect!
 
-Jika tertarik untuk berdiskusi mengenai **Data Science, Machine Learning, proyek kolaborasi, atau peluang lainnya**, silakan terhubung dengan saya.
+If you are interested in discussing **Data Science, Machine Learning, project collaboration, or other opportunities**, feel free to connect with me.
 
 💼 **LinkedIn:** [Muhamad Alfa Reza Gobel](https://www.linkedin.com/)
 🐙 **GitHub:** [MuhamadAlfaRezaGobel23](https://github.com/MuhamadAlfaRezaGobel23)
